@@ -3,7 +3,7 @@
     "description": "Project Work for Group One",
     "autoload": {
         "psr-4": {
-            "app\\": "src/"
+            "app\\": "./"
         }
     },
     "authors": [
