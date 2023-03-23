@@ -1,0 +1,16 @@
+{
+    "name": "osborneofosusaka/assignment_ads",
+    "description": "Project Work for Group One",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osborne",
+            "email": "osbee@hey.com"
+        }
+    ],
+    "require": {}
+}
